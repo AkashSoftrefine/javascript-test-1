@@ -1,0 +1,1 @@
+// Write a JavaScript program that iterates integers from 1 to 100. For multiples of three console.log("Fizz") and for multiples of five console.log("Buzz"). For numbers multiples of both three and five console.log("FizzBuzz").
