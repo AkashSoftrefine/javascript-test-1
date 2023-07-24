@@ -1,1 +1,4 @@
-// Write a JavaScript program that iterates integers from 1 to 100. For multiples of three console.log("Fizz") and for multiples of five console.log("Buzz"). For numbers multiples of both three and five console.log("FizzBuzz").
+// Write javascript function which takes nested array as an argument and returns flatten array as output.
+
+// Sample Input: [1, 2, [3, 4], [5, [6, 7]]];
+// Expected Output: [1, 2, 3, 4, 5, 6, 7];

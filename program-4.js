@@ -1,3 +1,7 @@
-// Write a JavaScript program to sort the items of an array.
-// Sample array : const arr1 = [ -3, 8, 7, 6, 5, -4, 3, 2, 1 ];
-// Sample Output : -4,-3,1,2,3,5,6,7,8
+// Write a JavaScript function which takes two arrays as an argument and returns merged array in ascending order.
+
+// Sample Input:
+// arr1 = [3, 5, 1]
+// arr2 = [4, 2]
+
+// Expected output: [1, 2, 3, 4, 5]

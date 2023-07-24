@@ -1,1 +1,16 @@
-// Write a JavaScript function which takes in array and integer "n". Passing the parameter 'n' will return the last 'n' elements of the array.
+// Write javascript program to remove duplicate objects from an array.
+
+// Sample Input:
+// array = [
+//  { title: "C++", author: "Bjarne" },
+//  { title: "Java", author: "James" },
+//  { title: "Python", author: "Guido" },
+//  { title: "Java", author: "James" },
+// ];
+
+// Expected Output:
+// [
+//  { title: 'C++', author: 'Bjarne' },
+//  { title: 'Java', author: 'James' },
+//  { title: 'Python', author: 'Guido' }
+// ]

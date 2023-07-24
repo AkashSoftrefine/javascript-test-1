@@ -10,7 +10,7 @@ This assignment requires you to write program for the given problem statements.
 
 ### Estimated Time
 
-The estimated time to complete the given code assignment falls within the range of **2 hours** to **4 hours**.
+The estimated time to complete the given code assignment falls within the range of **4 hours** to **8 hours**.
 
 Please note that this is a rough estimation and the actual time required may vary based on individual circumstances, familiarity with the technology stack, and the complexity of the design. It is important to manage your time effectively and plan accordingly to ensure timely completion of all required features and design elements.
 

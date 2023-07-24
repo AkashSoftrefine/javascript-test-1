@@ -1,5 +1,7 @@
 // Write a JavaScript program to compute the union of two arrays.
 
-// Sample Data :
-// console.log(union([1, 2, 3], [100, 2, 1, 10]));
-// Output: [1, 2, 3, 10, 100]
+// Sample input:
+// arr1 = [1, 2, 3]
+// arr2 = [100, 2, 1, 10];
+
+// Expected Output: c = [1, 2, 3, 10, 100]
